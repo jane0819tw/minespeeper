@@ -5,7 +5,7 @@ practice MVC structure to write a game.
 
 ## skills features
 cdn: bootstrap, font awesome
-
+utility: getRandomNumberArray(a helper function to get random number in a range)
 ## how to play 
 * there are two mode: challenge / custom mode, please choose one. 
 * click left mouse to open the field.
