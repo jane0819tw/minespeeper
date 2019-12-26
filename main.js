@@ -1,4 +1,5 @@
 const model = {
+
   mines: [],
   levels: [{width: 9,minesNum: 12},
            {width: 14,minesNum: 24},
